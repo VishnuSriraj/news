@@ -1,0 +1,89 @@
+@font-face{
+  font-family: Samarkan;
+  src:url(../fonts/SAMAN___.TTF);
+}
+
+/* css */
+.nav_col
+{
+   background-color: whitesmoke;
+}
+.nav-link
+{
+  font-weight: 700;
+  font-size: 1.2em;
+   color: grey;
+}
+.navbar-brand
+{
+  font-family: Samarkan;
+  font-size: 1.8em;
+   color: grey;
+}
+
+.nav-link:hover
+{
+   color: darkgray;
+}
+
+*
+{
+   box-sizing: border-box;
+}
+
+
+html, body{
+  margin: 0;
+  padding: 0px;
+  background-color: whitesmoke;
+}
+
+/* sai */
+
+
+.more{
+  float: right;
+  margin-right: 10px;
+  font-size: 0.8em;
+  color: red;
+}
+.content {
+  border-right: 7px solid whitesmoke;
+  border-left: 7px solid whitesmoke;
+  border-top: 15px whitesmoke ridge ;
+  height: auto;
+  }
+
+  .content img{
+    margin-top: 15px;
+  }
+
+h4{
+  margin-top: 10px;
+}
+
+.flex-contents{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.flex-contents p {
+  margin-left: 15px;
+}
+
+/* ------------------------ */
+
+.row-content {
+  background-color: white;
+  margin: 0px auto;
+   }
+
+.footer {
+  margin: 0px auto;
+  padding: 20px 0px 0px 0px; }
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f; }
+
