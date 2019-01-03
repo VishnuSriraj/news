@@ -13,11 +13,13 @@
   font-weight: 700;
   font-size: 1.2em;
    color: grey;
+   margin-right: 10vw;
 }
 .navbar-brand
 {
   font-family: Samarkan;
   font-size: 1.8em;
+   margin-right: 8rem;
    color: grey;
 }
 
